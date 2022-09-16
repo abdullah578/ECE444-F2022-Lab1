@@ -11,3 +11,11 @@ Abdullah Ansar Mohammed
 **Activity 3**
 
 ![](images/Activity3.png)
+
+**Activity 4**
+
+Link to collaborator repo : [https://github.com/majanojoel/ECE444-F2022-Lab1/](https://github.com/majanojoel/ECE444-F2022-Lab1/)
+
+![](images/Activity4a.png)
+
+![](images/Activity4b.png)
