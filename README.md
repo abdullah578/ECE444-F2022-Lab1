@@ -19,3 +19,10 @@ Link to collaborator repo : [https://github.com/majanojoel/ECE444-F2022-Lab1/](h
 ![](images/Activity4a.png)
 
 ![](images/Activity4b.png)
+
+**Activity 5**
+
+![](images/Activity5a.png)
+![](images/Activity5b.png)
+![](images/Activity5c.png)
+![](images/Activity5d.png)
